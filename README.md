@@ -8,7 +8,7 @@ Hello, I'm a passionate FiveM QBCore developer. I've spent countless hours worki
 - 👯 I’m looking to collaborate on any innovative FiveM projects.
 - 📫 How to reach me: [Join The Discord!](https://discord.gg/5KNXHrNdpB)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once coded for 48 hours straight during a game jam!
+- ⚡ Fun fact: I once stayed over 30 hours working on a script!
 
 ## 🛠️ Technologies & Tools
 
