@@ -22,7 +22,7 @@ Hello, I'm a passionate FiveM QBCore developer. I've spent countless hours worki
 
 ![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolsticeDev&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solstice-Development&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolsticeDev&layout=compact&theme=radical)
 
 ## 📌 Pinned Repositories
 
