@@ -1,4 +1,4 @@
-# Hi there! I'm [Solstice-Development](https://github.com/SolsticeDev)) 👋
+# Hi there! I'm [Solstice-Development](https://github.com/SolsticeDev) 👋
 
 ## About Me 🚀
 
