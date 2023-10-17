@@ -24,15 +24,9 @@ Hello, I'm a passionate FiveM QBCore developer. I've spent countless hours worki
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolsticeDev&layout=compact&theme=radical)
 
-## 📌 Pinned Repositories
-
-<!-- Add your repository links below: -->
-
-[![RepoName](https://github-readme-stats.vercel.app/api/pin/?username=SolsticeDev&repo=RepoName&theme=radical)](https://github.com/SolsticeDev/Solstice-MoneyLaunder)
-
 ## 📬 Get in Touch
 
-- GitHub: [https://github.com/Solstice-Development](https://github.com/Solstice-Development)
+- GitHub: [https://github.com/SolsticeDev](https://github.com/SolsticeDev)
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - LinkedIn: [Your LinkedIn](#)  <!-- Make sure to add your LinkedIn URL here -->
 
