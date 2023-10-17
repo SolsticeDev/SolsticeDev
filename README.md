@@ -27,8 +27,7 @@ Hello, I'm a passionate FiveM QBCore developer. I've spent countless hours worki
 ## 📬 Get in Touch
 
 - GitHub: [https://github.com/SolsticeDev](https://github.com/SolsticeDev)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](#)  <!-- Make sure to add your LinkedIn URL here -->
+- Discord: (https://discord.gg/5KNXHrNdpB)
 
 🤝 **Contributions are always welcome!**
 
