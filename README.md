@@ -1,13 +1,12 @@
-# Hi there! I'm [Solstice-Development]([https://github.com/Solstice-Development](https://github.com/SolsticeDev)) 👋
+# Hi there! I'm [Solstice-Development](https://github.com/SolsticeDev)) 👋
 
 ## About Me 🚀
 
 Hello, I'm a passionate FiveM QBCore developer. I've spent countless hours working on various projects related to the QBCore framework, and I'm always excited to tackle new challenges and collaborate with others in the community. My goal is to enhance the gaming experience for FiveM players and contribute to the growth of the QBCore ecosystem.
 
-- 🔭 I’m currently working on enhancing QBCore scripts and plugins.
 - 🌱 I’m always eager to learn about the latest in game development and technology.
 - 👯 I’m looking to collaborate on any innovative FiveM projects.
-- 📫 How to reach me: [Send me an email!](mailto:your-email@example.com)
+- 📫 How to reach me: [Join The Discord!](https://discord.gg/5KNXHrNdpB)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once coded for 48 hours straight during a game jam!
 
