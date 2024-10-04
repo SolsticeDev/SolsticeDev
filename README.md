@@ -63,9 +63,7 @@ If you find my projects useful, consider giving them a ⭐️ or [sponsoring me]
 
 ## 🧩 Fun Widgets
 
-![Wakatime](https://wakatime.com/share/@your-wakatime-id/badge.svg)
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=novatorem)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pxnsdofd55kbopw3viw4hnbvri&cover_image=true&theme=novatorem)
 
 ---
 
