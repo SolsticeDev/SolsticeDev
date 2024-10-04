@@ -1,7 +1,5 @@
 # Hi there! I'm [Solstice-Development](https://github.com/SolsticeDev) 👋
 
-![Profile Banner](https://your-banner-image-url.com/banner.png)
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SolsticeDev.SolsticeDev)
 
 ## About Me 🚀
@@ -25,29 +23,6 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=github-actions)
-
-## 🔥 Featured Projects
-
-### [Project Name](https://github.com/SolsticeDev/ProjectRepo)
-![Project Image](https://via.placeholder.com/600x200)  
-*A brief description of your project, its features, and technologies used.*
-
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Technologies:** Lua, JavaScript, MySQL
-- **Live Demo:** [Link to Demo](https://your-demo-link.com)
-
-### [Another Project](https://github.com/SolsticeDev/AnotherProject)
-![Another Project Image](https://via.placeholder.com/600x200)  
-*Description of another significant project, highlighting what makes it stand out.*
-
-- **Features:**
-  - Feature A
-  - Feature B
-- **Technologies:** Lua, Node.js
-- **Live Demo:** [Link to Demo](https://your-demo-link.com)
 
 ## 📊 GitHub Stats
 
@@ -73,45 +48,24 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 
 ![Contributions](https://github-contribution-stats.vercel.app/api/?username=SolsticeDev&theme=radical)
 
-## 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Optimize Lua Scripts for FiveM](https://yourblog.com/optimize-lua-scripts)
-- [Integrating MySQL with QBCore](https://yourblog.com/integrate-mysql-qbcore)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📺 Latest YouTube Video
 
-[![Latest YouTube Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Latest YouTube Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=WCT_Ff3_Bks)
 
 ## 🗺️ My GitHub Journey
 
 ![GitHub Journey](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolsticeDev&theme=radical)
 
-## 🧩 Open Source Projects I Support
-
-- [Project A](https://github.com/ProjectA) - Brief description
-- [Project B](https://github.com/ProjectB) - Brief description
-
 ## 📫 Get in Touch
 
 - **GitHub:** [https://github.com/SolsticeDev](https://github.com/SolsticeDev)
 - **Discord:** [Join The Discord](https://discord.gg/5KNXHrNdpB)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) *(Optional)*
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YourLinkedIn) *(Optional)*
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 ## 🎯 Goals for 2024
 
 - Launch two major FiveM projects.
-- Contribute to 10+ open-source repositories.
 - Expand my expertise in **Python** and **Docker**.
 - Grow the Discord community to 1000+ members.
-
-## 📅 Upcoming Events
-
-- **FiveM Workshop:** [Date & Details](https://your-event-link.com)
-- **Hackathon Participation:** [Event Name](https://your-hackathon-link.com)
 
 ## 🛎️ Support Me
 
