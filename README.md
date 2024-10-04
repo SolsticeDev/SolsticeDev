@@ -30,8 +30,6 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolsticeDev&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SolsticeDev&theme=react-dark)
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SolsticeDev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
