@@ -61,10 +61,6 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 
 If you find my projects useful, consider giving them a ⭐️ or [sponsoring me](https://github.com/sponsors/SolsticeDev).
 
-## 🧩 Fun Widgets
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pxnsdofd55kbopw3viw4hnbvri&cover_image=true&theme=novatorem)
-
 ---
 
 ⭐️ From [Solstice-Development](https://github.com/SolsticeDev)
