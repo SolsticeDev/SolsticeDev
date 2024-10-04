@@ -34,10 +34,6 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SolsticeDev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/SolsticeDev?template=classic&isocalendar=1&languages=1)
-
 ## 💡 Latest Commit
 
 ![GitHub commit activity](https://img.shields.io/github/last-commit/SolsticeDev/SolsticeDev?style=flat&logo=github)
@@ -45,10 +41,6 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 ## 🤝 Contributions
 
 ![Contributions](https://github-contribution-stats.vercel.app/api/?username=SolsticeDev&theme=radical)
-
-## 📺 Latest YouTube Video
-
-[![Latest YouTube Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=WCT_Ff3_Bks)
 
 ## 🗺️ My GitHub Journey
 
