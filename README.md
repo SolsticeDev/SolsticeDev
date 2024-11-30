@@ -55,7 +55,7 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 ## 🎯 Goals for 2024
 
 - Launch two major FiveM projects.
-- Expand my expertise in **Python** and **Docker**.
+- Expand my expertise in **Vue** and **Other front end frameworks**.
 - Grow the Discord community to 1000+ members.
 
 ## 🛎️ Support Me
