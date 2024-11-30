@@ -16,6 +16,7 @@ Hello, I'm a passionate **FiveM QBCore developer** with a strong commitment to e
 
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
